@@ -9,4 +9,4 @@ project_general_explained.py : My third solution that can run any set of images 
 
 project_general_condensed.py : My third solution but condensed into as few lines as possible
 
-![Image Sample](https://github.com/thenxtAI3/Hello_World/blob/master/Preview.png)
+![Image Sample](https://github.com/thenxtAI3/Photoshop_test/blob/master/Preview.png)
